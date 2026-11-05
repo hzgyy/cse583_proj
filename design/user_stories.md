@@ -38,13 +38,3 @@ David has never been hiking but wants to start exploring nature around Seattle. 
 
 Chris is an experienced backpacker who enjoys multi-day trips in Washington State. He wants to plan routes that pass through remote natural environments while understanding the potential for bear activity along different trail segments. He needs detailed trail maps, environmental information, and seasonal wildlife predictions. He has advanced outdoor navigation skills and experience using digital mapping tools.
 
-
-#user Story 21 – Couples Planning for a Fun Trip
-
-#user Story 22 – Middle School Students Visiting for Washington Ecosystem Study
-
-#user Story 23 – Wildlife Artists 
-
-#user Story 24 – Team Building Activities
-
-#user Story 25 – 
