@@ -76,3 +76,7 @@ Nina is a data science student interested in environmental prediction models. Sh
 
 # user Story 20 – Local Resident Planning Outdoor Activities
 Mark lives near forested areas outside Seattle and frequently visits nearby parks and trails. He wants to better understand where bears may be present in the surrounding landscape, even in areas without many historical observations. He needs a map that combines environmental conditions with predicted wildlife distribution and provides clear information about uncertainty. He has basic hiking experience and is comfortable using everyday web applications.
+
+# user Story 21 – Couples Planning for a Relationship-Building Trip
+
+Emily and Daniel are a couple who want to spend quality time together through outdoor activities and nature exploration. They have limited hiking experience and are looking for beginner-friendly trails where they can enjoy scenic views, explore nature, and strengthen their relationship through shared experiences. They need a tool that helps them find suitable hiking trails based on difficulty, distance, scenery, and potential wildlife viewing opportunities. They also want to learn about local wildlife while enjoying a safe and memorable trip together. They have basic knowledge of outdoor activities but limited hiking and wildlife experience.
